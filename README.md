@@ -14,43 +14,59 @@ Python Programmings
 
 ## Semester 2
 - ### Integration 
-   1.Trapezoidal Method
+     1.Trapezoidal Method
  
-   2.Simpson's $(\frac{1}{3})^{rd}$ Method
+     2.Simpson's $(\frac{1}{3})^{rd}$ Method
 
-   3.Gaussian Integration
+     3.Gaussian Integration
 
-   4.scipy.integrate method 1D,2D,3D
+     4.scipy.integrate method 1D,2D,3D
    
-- ### Fourier Series, Power Spectrum, FFT
+- ### Fourier Spectrum
+   - - Fourier Series
+   - - Power Spectrum
+   - - FFT(scipy and numpy)
 
 - ### Roots Searching
    #### 1D
-   1.Bisection Method
+        1.Bisection Method
    
-   2.Secant Method
+        2.Secant Method
    
-   3.Regula Falsi Method
+        3.Regula Falsi Method
     
-   4.Newton Raphson Method
+        4.Newton Raphson Method
     
    #### 2D
-  Multi Dimension Newton Raphson Method & Bracketing implementation
+         Multi Dimension Newton Raphson Method & Bracketing implementation
       
 - ### Linear Algebra
-- #### Solve System of equations
-   1.Gauss Elimination and backward substitution and pivot 
+  - - #### Solve System of equations
+          
+          1.Gauss Elimination and backward substitution and pivot 
 
-   2.Gauss Jordan Elimination 
+          2.Gauss Jordan Elimination 
 
-   3.Jacobis Iitterative Method
+          3.Jacobis Iitterative Method
 
-   4.Gauss Seidel Method 
+          4.Gauss Seidel Method 
 
-- #### Matrix Inverse
+  - - #### Matrix Inverse
+          
+          1.Gauss Elimination  
 
-- #### Power Method to find largest eigen value
-- #### Inverse Power Method to find smallest eigen value
+          2.Gauss Jordan Elimination 
+
+          3.Gauss Seidel Method
+   
+  - - #### eigen-values & corresponding eigen-vectors
+           
+           1.Jacobis Iitterative Method to find all eigen-values & corresponding eigen-vectors
+           
+           2.Power Method to find largest eigen-value & corresponding eigen-vectors
+           
+           3.Inverse Power Method to find smallest eigen value & corresponding eigen-vectors
+
 
 ## Semester 3
 
