@@ -13,6 +13,7 @@ Python Programmings
 - To estimate the goodness of a fit
    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/rgn.png">
 - To study scientific tools in sympy
+    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/eigen%20vals.png">
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/atm.png">
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(1).png">
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(2).png">
