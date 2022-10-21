@@ -3,20 +3,23 @@ Python Programmings
 
 ## Semester 1
 - Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
+    <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
 - To evaluate special functions and to study their behaviours
-   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/hif.png">
-   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
-   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/bsl1p.png">
+   <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/hif.png">
+   <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
+   <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/bsl1p.png">
 - To construct the histogram from a data file and to calculate different moments
-   <img src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/hist.jpg">
+   <img width=700 src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/hist.jpg">
 - To estimate the goodness of a fit
    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/rgn.png">
 - To study scientific tools in sympy
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/eigen%20vals.png">
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/atm.png">
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(1).png">
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(2).png">
+    <img align=left width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(1).png">
+    <img width=700 align=center src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(2).png">
+
+
+
 ## Semester 2
 - ### Integration 
      1.Trapezoidal Method
