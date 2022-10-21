@@ -81,8 +81,7 @@ Python Programmings
           
       1.Gauss Elimination and backward substitution and pivot 
         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss.png">
-        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back.png">
-        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_pivot.png">
+        <img src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/gauss_back.png">
         
       2.Gauss Jordan Elimination 
          <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_jordan.png">
