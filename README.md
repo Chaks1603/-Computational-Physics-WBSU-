@@ -21,24 +21,32 @@ Python Programmings
      3.Gaussian Integration
 
      4.scipy.integrate method 1D,2D,3D
-   
+    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/223.png">
+    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/213.png">
 - ### Fourier Spectrum
-   - - Fourier Series
-   - - Power Spectrum
+   - - Fourier Series   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/tan.png">
+    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/invt.png">
+   - - Power Spectrum   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/123.png">
    - - FFT(scipy and numpy)
+    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/llk.png">
 
 - ### Roots Searching
    #### 1D
-        1.Bisection Method
+     1.Bisection Method
    
-        2.Secant Method
+     2.Secant Method
    
-        3.Regula Falsi Method
+     3.Regula Falsi Method
     
-        4.Newton Raphson Method
-    
+     4.Newton Raphson Method
+      <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/rt.png">
+   
    #### 2D
-         Multi Dimension Newton Raphson Method & Bracketing implementation
+     Multi Dimension Newton Raphson Method & Bracketing implementation
+      
+     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/nm0.png">
+     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/nm2.png">
+     <img src=" https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/bsl.png">
       
 - ### Linear Algebra
   - - #### Solve System of equations
