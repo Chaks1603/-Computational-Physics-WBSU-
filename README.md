@@ -13,6 +13,7 @@ Python Programmings
    <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/75ae6f3035703b0253bc1538de3ca25df331035d/Logic_Tables/img/hf1.png">
    
    **Fibonacci Polynomials are defined as** :
+   
    $$ F_1(x) = x,\qquad F_2(x) = x \qquad F_n(x) = xF_{n-1} + F_{n-2}(x),\qquad n>2 $$
 
    <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
@@ -47,11 +48,15 @@ Python Programmings
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/223.png">
     <img src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/int1.png">
 - ### Fourier Spectrum
-   - - Fourier Series   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/tan.png">
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/invt.png">
-   - - Power Spectrum   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/123.png">
-   - - FFT(scipy and numpy)
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/llk.png">
+   - - Fourier Series   
+       <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/tan.png">
+       <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/invt.png">
+   
+   - - Power Spectrum   
+      <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/123.png">
+ 
+ - - FFT(scipy and numpy)
+     <img  src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/llk.png">
 
 - ### Roots Searching
    #### 1D
