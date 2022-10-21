@@ -22,7 +22,7 @@ Python Programmings
 
      4.scipy.integrate method 1D,2D,3D
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/223.png">
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/213.png">
+    <img src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/int1.png">
 - ### Fourier Spectrum
    - - Fourier Series   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/tan.png">
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/04bf85152e9778b515b00f768d44338f4055135c/Logic_Tables/img/invt.png">
