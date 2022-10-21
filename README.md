@@ -153,7 +153,7 @@ $\displaystyle{\quad\text{Taking }m=1,\omega=1,x_0=1,v_0=0,g=9.8 m/s^2 }$
    
    $$ \displaystyle{\large m\frac{\text{d}^{2}x}{\text{dt}^{2}}=-m\omega^{2}x-2mb\frac{\text{d}x}{\text{dt}}} $$
   
-  <img width=800 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers3.png">
+  <img width=1100 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers3.png">
 
 - ###  Quantum Solutions
    1.shooting method
