@@ -29,8 +29,20 @@ Python Programmings
 - To estimate the goodness of a fit
    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/rgn.png">
 - To study scientific tools in sympy
+   
+    **Use the formula for matrix elements of $J_+$ and $J_-$ and generate the matrix.** 
+     $J_x,J_y,J_z$ **for an arbitray** $j$. 
+    **Find out the eigenvalues and eigenvectors of the matrices.**
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/eigen%20vals.png">
+    
+    Find the probabilities , Assuming first Bohr radius ${\large{a}}_0 = 1,$ the $2'$s state wave function is given by
+    
+    $$\psi_{2s}(r,\theta,\phi) = \frac{1}{4\sqrt{2\pi}} (2-r) e^{-\frac{r}{2}}$$
+    
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/atm.png">
+    
+  **solving O.D.E.'s**:
+  
     <img align=left width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(1).png">
     <img width=700 align=center src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/download%20(2).png">
 
