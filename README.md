@@ -1,4 +1,4 @@
-# -Computational-Physics-WBSU-Python-
+# -Computational-Physics-WBSU-Python-LaTex-
 Python Programmings
 
 ## Semester 1
