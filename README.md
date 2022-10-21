@@ -45,7 +45,7 @@ Python Programmings
     
     $$\psi_{2s}(r,\theta,\phi) = \frac{1}{4\sqrt{2\pi}} (2-r) e^{-\frac{r}{2}}$$
     
-    <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/atm.png">
+    <img width=650 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/atm.png">
     
   **solving O.D.E.'s**:
   
@@ -99,6 +99,7 @@ Python Programmings
           
       1.Gauss Elimination and backward substitution and pivot 
         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss.png">
+        _______________________________________________________________________________________________________________________________________________________________________________
         <img src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/gauss_back.png">
         
       2.Gauss Jordan Elimination 
