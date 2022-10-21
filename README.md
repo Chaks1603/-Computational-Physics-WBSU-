@@ -14,7 +14,7 @@ Python Programmings
    
    **confluenet hypergeometric function** :
    
-   $$ \displaystyle{{}_{1}\text{F}_1(a,b,z)=\sum_{k=0}^\infty \frac{(a)_k}{(b)_k} \frac{z^k}{k!}} $$
+   <img align=center width=280 src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/Screenshot%20(133).png">   
    
    <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/75ae6f3035703b0253bc1538de3ca25df331035d/Logic_Tables/img/hf1.png">
    
@@ -153,7 +153,7 @@ $\displaystyle{\quad\text{Taking }m=1,\omega=1,x_0=1,v_0=0,g=9.8 m/s^2 }$
    
    $$ \displaystyle{\large m\frac{\text{d}^{2}x}{\text{dt}^{2}}=-m\omega^{2}x-2mb\frac{\text{d}x}{\text{dt}}} $$
   
-  <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers3.png">
+  <img width=800 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers3.png">
 
 - ###  Quantum Solutions
    1.shooting method
