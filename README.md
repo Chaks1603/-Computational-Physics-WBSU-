@@ -2,8 +2,19 @@
 Python Programmings
 
 ## Semester 1
+- Introduction to LATEX using MinTex and implementation in python notebooks 
+   <iframe
+  frameborder="0"
+  scrolling="no"
+  width="640"
+  height="480"
+  src="https://github.com/Chaks1603/-Computational-Physics-WBSU-/blob/main/Semester%201/assignment1.pdf#toolbar=0&navpanes=0&scrollbar=0">
+</iframe>
+
 - Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
     <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
+    
+    
 - To evaluate special functions and to study their behaviours
    
    **confluenet hypergeometric function** :
