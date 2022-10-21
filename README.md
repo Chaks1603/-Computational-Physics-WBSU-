@@ -40,7 +40,7 @@ Python Programmings
     **Find out the eigenvalues and eigenvectors of the matrices.**
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/eigen%20vals.png">
     
-    Find the probabilities , Assuming first Bohr radius ${\large{a}}_0 = 1,$ the $2'$s state wave function is given by
+    Find the probabilities , Assuming first Bohr radius ${\large{a}}_0 = 1,$ the 2's state wave function is given by
     
     $$\psi_{2s}(r,\theta,\phi) = \frac{1}{4\sqrt{2\pi}} (2-r) e^{-\frac{r}{2}}$$
     
