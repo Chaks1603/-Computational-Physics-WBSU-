@@ -5,9 +5,9 @@ Python Programmings
 - Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
     <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
 - To evaluate special functions and to study their behaviours
-   <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/hif.png">
+   <img width=700 src="">
    <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
-   <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/bsl1p.png">
+   <img width=600 src="">
 - To construct the histogram from a data file and to calculate different moments
    <img width=700 src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/hist.jpg">
 - To estimate the goodness of a fit
@@ -99,6 +99,23 @@ Python Programmings
    2.RK4 method
    
    3.scipy method
+
+   **the motion of a particle thrown vertically upward with a velocity** :
+$$\displaystyle{ m \frac{\text{d}^{2}x}{\text{dt}^{2}}=-mg }$$
+
+$\displaystyle{\text{Take }x_{0}=0,u=10m/s, g=9.8 m/s^{2}, m = 1 } $
+   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers1.png">
+   
+**simple harmonic oscillator** :
+$$\displaystyle{ m\frac{\text{d}^2 x}{\text{dt}^2}=-m\omega^2 x} $$
+
+$\displaystyle{\quad\text{Taking }m=1,\omega=1,x_0=1,v_0=0,g=9.8 m/s^2 }$
+   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers2.png">
+   **Harmonic Oscillator** with velocity proportional damping $2bv$, $m=1 :$
+   
+   $$ \displaystyle{\large m\frac{\text{d}^{2}x}{\text{dt}^{2}}=-m\omega^{2}x-2mb\frac{\text{d}x}{\text{dt}}} $$
+  
+  <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/542aff4d5705ed698d10fe3094f96dd8b085a2d1/Logic_Tables/img/ers3.png">
 
 - ###  Quantum Solutions
    1.shooting method
