@@ -47,33 +47,33 @@ Python Programmings
         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss.png">
         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back.png">
         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_pivot.png">
-        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back_inv.png">
         
       2.Gauss Jordan Elimination 
          <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_jordan.png">
-         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gj_inv.png">
       3.Jacobis Iitterative Method
           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/jcobi.png">
       4.Gauss Seidel Method 
            <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gs.png">
-           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gs%20inv.png">
            
   - - #### Matrix Inverse
           
-          1.Gauss Elimination  
+       1.Gauss Elimination  
+            <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back_inv.png">
 
-          2.Gauss Jordan Elimination 
+       2.Gauss Jordan Elimination 
+             <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gj_inv.png">
 
-          3.Gauss Seidel Method
-   
+       3.Gauss Seidel Method
+              <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gs%20inv.png">
+
   - - #### eigen-values & corresponding eigen-vectors
            
-           1.Jacobis Iitterative Method to find all eigen-values & corresponding eigen-vectors
-           
-           2.Power Method to find largest eigen-value & corresponding eigen-vectors
-           
-           3.Inverse Power Method to find smallest eigen value & corresponding eigen-vectors
-
+       1.Jacobis Iitterative Method to find all eigen-values & corresponding eigen-vectors
+           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/jcobi%20eigen.png">
+       2.Power Method to find largest eigen-value & corresponding eigen-vectors
+           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/power.png">
+       3.Inverse Power Method to find smallest eigen value & corresponding eigen-vectors
+            <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/inv%20power.png">
 
 ## Semester 3
 
