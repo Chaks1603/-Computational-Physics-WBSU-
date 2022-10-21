@@ -5,9 +5,24 @@ Python Programmings
 - Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
     <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
 - To evaluate special functions and to study their behaviours
-   <img width=700 src="">
+   
+   **confluenet hypergeometric function** :
+   
+   $$ \displaystyle{{}_{1}\text{F}_1(a,b,z)=\sum_{k=0}^\infty \frac{(a)_k}{(b)_k} \frac{z^k}{k!}} $$
+   
+   <img width=700 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/75ae6f3035703b0253bc1538de3ca25df331035d/Logic_Tables/img/hf1.png">
+   
+   **Fibonacci Polynomials are defined as** :
+   $$ F_1(x) = x,\qquad F_2(x) = x \qquad F_n(x) = xF_{n-1} + F_{n-2}(x),\qquad n>2 $$
+
    <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
-   <img width=600 src="">
+   
+   **Bessel functions of the first kind of integer orders** : 
+   
+   $$ \displaystyle{ J_{p} (x) = \sum_{n=0}^\infty \frac{x^{2n+p}{(-1)^n}}{{2^{2n+p}}{n!}\Gamma{(p+n+1)}}} $$
+   
+   <img width=600 src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/75ae6f3035703b0253bc1538de3ca25df331035d/Logic_Tables/img/bessel1.png">
+   
 - To construct the histogram from a data file and to calculate different moments
    <img width=700 src="https://github.com/Chaks1603/Python-Assignments/blob/main/Logic_Tables/img/hist.jpg">
 - To estimate the goodness of a fit
