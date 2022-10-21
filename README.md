@@ -5,7 +5,9 @@ Python Programmings
 - Introduction to Python with basics and packages like Numpy,Matplotlib & Sympy
     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/bf6d3545caa4483d6d7d5c46764297efb67fa326/Logic_Tables/img/ds.png">
 - To evaluate special functions and to study their behaviours
-
+   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/hif.png">
+   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/fib.png">
+   <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/bsl1p.png">
 - To construct the histogram from a data file and to calculate different moments
 
 - To estimate the goodness of a fit
@@ -48,7 +50,7 @@ Python Programmings
       
      <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/nm0.png">
      <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/nm2.png">
-     <img src=" https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/bsl.png">
+     <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/88831784442d54cbfae64c1b5e73474199c9b6aa/Logic_Tables/img/bsl.png">
       
 - ### Linear Algebra
   - - #### Solve System of equations
