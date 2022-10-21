@@ -43,14 +43,21 @@ Python Programmings
 - ### Linear Algebra
   - - #### Solve System of equations
           
-          1.Gauss Elimination and backward substitution and pivot 
-
-          2.Gauss Jordan Elimination 
-
-          3.Jacobis Iitterative Method
-
-          4.Gauss Seidel Method 
-
+      1.Gauss Elimination and backward substitution and pivot 
+        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss.png">
+        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back.png">
+        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_pivot.png">
+        <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_back_inv.png">
+        
+      2.Gauss Jordan Elimination 
+         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gauss_jordan.png">
+         <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gj_inv.png">
+      3.Jacobis Iitterative Method
+          <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/jcobi.png">
+      4.Gauss Seidel Method 
+           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gs.png">
+           <img src="https://raw.githubusercontent.com/Chaks1603/Python-Assignments/085f12c759190be0cf00c5a0144134c9c4883c53/Logic_Tables/img/gs%20inv.png">
+           
   - - #### Matrix Inverse
           
           1.Gauss Elimination  
